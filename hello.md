@@ -12,7 +12,7 @@
 - 🔥 Passionate about Web Development
 - 🌱 Currently learning Frontend like Tailwind,Bootstrap etc...
 - 📚 Like exploring open-source projects
-- 📫 Reach me at: mhein3580@gmail.com
+- 📫 Reach me at: mhein3980@gmail.com
 
 ---
 
