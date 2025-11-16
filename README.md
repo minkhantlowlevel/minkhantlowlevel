@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">👋 Hello! I'm Min Khant Hein</h1>
 
-<!--
-**minkhantlowlevel/minkhantlowlevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🌟 Developer • Learner • Creator  
+  <br>
+  💻 I love learning new technologies.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔥 Passionate about Web Development
+- 🌱 Currently learning Frontend like Tailwind,Bootstrap etc...
+- 📚 Like exploring open-source projects
+- 📫 Reach me at: mhein3980@gmail.com
+
+---
+
+## 🔧 Tech Stack
+Languages:  
+- JavaScript  
+- HTML / CSS  
+- Java  
+
+Tools & Platforms:  
+- VS Code  
+- Git & GitHub  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minkhantlowlevel&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minkhantlowlevel&layout=compact" height="150" />
+</p>
+
+---
+
+## 🌐 Social Links
+- Telegram: @MinKhantMKH
+- GitHub: https://github.com/minkhantlowlevel 
+
+---
+
+<p align="center">✨ Thanks for visiting my profile!</p>
